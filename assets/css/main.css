@@ -22,7 +22,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Madelyn';
+	font-family: 'Times New Roman';
     font-weight: 700;
     color: #333;
 }
@@ -37,9 +37,9 @@ h1 {
 
 /* Paragraph & Typographic */
 p {
-    line-height: 40px;
-    margin-bottom: 25px;
-    font-size: 16px;
+    line-height: 50px;
+    margin-bottom: 30px;
+    font-size: 25px;
 }
 
 .centered {
@@ -154,22 +154,24 @@ a:after {
 
 
 #footer {
-	background-color: green;
+	background-color: #5b0b0b;
 	padding-top: 100px;
 	padding-bottom: 70px; 
 	font-family: 'Minion';
 }
 
 #footer p {
-	color: white;
+	color: orange;
 }
 
 #footer h4 {
 	color: white;
 	text-transform: uppercase;
 	padding-bottom: 20px;
+	font-size: 50px;
 }
 
+.s
 
 /* +++++ Color Wraps / Blog Page +++++ */
 
@@ -250,4 +252,9 @@ bt {
 	font-size: 70px;
 	color: green;
 	font-family: 'Minion';
+}
+
+.colorred {
+	background-color: grey;
+
 }
